@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Profissional de TI com 12+ anos de experiência | Especialista em Computação em Nuvem e DevOps 🌟<br><br>Sou um entusiasta da tecnologia da informação com ampla experiência em administração de redes, sistemas e segurança da informação. Recentemente, tenho me aprofundado em computação em nuvem, especialmente AWS, e em práticas de DevOps usando Docker e Terraform. Meu foco atual é otimizar a infraestrutura em AWS, garantindo estabilidade e segurança. Estou sempre aberto a discutir estratégias de segurança, soluções em nuvem e possíveis colaborações.</p>
+<p align="left">🚀 Profissional de TI com +12 anos de experiência | Especialista em Computação em Nuvem e DevOps 🌟<br><br>Sou um entusiasta da tecnologia da informação com ampla experiência em administração de redes, sistemas e segurança da informação. Recentemente, tenho me aprofundado em computação em nuvem, especialmente AWS, e em práticas de DevOps usando Docker e Terraform. Meu foco atual é otimizar a infraestrutura em AWS, garantindo estabilidade e segurança. Estou sempre aberto a discutir estratégias de segurança, soluções em nuvem e possíveis colaborações.</p>
 
 ###
 
